@@ -1,4 +1,4 @@
-Coding Exercise -- Person
+🖥️ Coding Exercise -- Person 
 
 Write a class with the name Person. The class needs three fields (instance variables) with the names firstName, lastName of type String and age of type int. 
 
@@ -58,5 +58,3 @@ fullName= John Smith
 NOTE: All methods should be defined as public NOT public static.
 
 NOTE: In total, you have to write 8 methods.
-
-NOTE: Do not add the main method to the solution code.
